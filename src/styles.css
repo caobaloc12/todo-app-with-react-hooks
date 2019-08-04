@@ -1,0 +1,32 @@
+.App {
+  padding: 16px;
+}
+.App h1 {
+  font-size: 30px;
+  text-align: left;
+}
+.TodoList {
+  text-align: left;
+  padding-left: 16px;
+  list-style-type: none;
+}
+.TodoItem {
+  margin: 11px 0;
+}
+.TodoItemCompleted {
+  text-decoration: line-through;
+  color: #ccc;
+}
+.AddTodoForm {
+  width: 100%;
+  margin: 16px;
+}
+.AddTodoInput {
+  width: 240px;
+}
+.EditTodoForm {
+  padding-left: 24px;
+}
+.IconColor {
+  color: rgb(75, 75, 75);
+}
